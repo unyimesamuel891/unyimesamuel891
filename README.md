@@ -1,4 +1,4 @@
-# Hi, I'm Bernard 
+# Hi, I'm Duncan
 
 I build practical web products with a strong focus on clean interfaces, real business workflows, and thoughtful user experience. My recent work is centered on React, TypeScript, full-stack product flows, dashboards, automation, and AI-assisted applications.
 
